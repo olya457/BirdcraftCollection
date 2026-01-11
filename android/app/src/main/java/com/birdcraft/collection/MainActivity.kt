@@ -1,4 +1,4 @@
-package com.birdcraftcollection
+package com.birdcraft.collection
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

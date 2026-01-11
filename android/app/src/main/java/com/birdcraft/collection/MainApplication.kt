@@ -1,4 +1,4 @@
-package com.birdcraftcollection
+package com.birdcraft.collection
 
 import android.app.Application
 import com.facebook.react.PackageList
