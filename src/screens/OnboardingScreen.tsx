@@ -31,7 +31,7 @@ const STEPS: Array<{
 }> = [
   {
     image: ONBOARD_1,
-    title: 'Welcome to Birdcraft Collection',
+    title: 'Welcome to Birdwatcher Collection',
     text:
       'Step into a quiet kind of adventure.\n' +
       'Every walk, window view, or park visit can\n' +
